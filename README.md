@@ -1,10 +1,6 @@
-<!-- GitHub Profile README - Sanket Shirke -->
-<!-- Clean, aesthetic, with dev icons & language logos -->
+<!-- GitHub Profile README - Sanket Shirke (clean, no sliding, working buttons) -->
 <div align="center">
   <h1>SANKET SHIRKE</h1>
-  <p>
-    <code>he/him</code> • <code>Mumbai, India</code> • <code>sanketshirke67-bot</code>
-  </p>
   <p>
     <strong>Full-Stack Dev • Node.js, React, Python, PostgreSQL • Building scalable apps from Mumbai™</strong>
   </p>
@@ -31,7 +27,7 @@
 
 <h3>📁 Popular repositories · featured</h3>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>📘 my-portfolio</h4>
@@ -67,11 +63,10 @@
 <h3 align="center">🌐 Let's connect</h3>
 <p align="center">
   <a href="https://github.com/sanketshirke67-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Replace the # below with your real LinkedIn and Twitter URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanketshirke67-bot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- No sliding animations, no profile views counter (clean) -->
