@@ -1,4 +1,4 @@
-<!-- GitHub Profile README - Sanket Shirke (clean, no sliding, working buttons) -->
+<!-- GitHub Profile README - Sanket Shirke (clean, no sliding) -->
 
 <div align="center">
 
@@ -8,7 +8,6 @@
 
 *“crafting experiences, one commit at a time”*
 
-<!-- Profile views (working badge) -->
 ![Profile views](https://komarev.com/ghpvc/?username=sanketshirke67-bot&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
@@ -49,10 +48,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ ampm</h4>
-      <p>Forked from <strong>microsoft/amp</strong> — C++ AMP (Accelerated Massive Parallelism) exploration.</p>
-      <p><img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" /> HPC</p>
-      <p><a href="https://github.com/sanketshirke67-bot/ampm">→ View repo</a></p>
+      <h4>⚡ apm</h4>
+      <p><strong>Agent Package Manager</strong> — An open‑source, community‑driven dependency manager for AI agents. Think <code>package.json</code> for AI configuration.</p>
+      <p><img src="https://img.shields.io/badge/-AI_Tools-8A2BE2?logo=github&logoColor=white" alt="AI Tools" /></p>
+      <p><a href="https://github.com/sanketshirke67-bot/apm">→ View repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4>🖥️ myportfolio</h4>
@@ -62,8 +61,6 @@
     </td>
   </tr>
 </table>
-
-> **Note about "apmc"** – if the actual repo is named `apmc` (instead of `ampm`), just change the link in the code above to `https://github.com/sanketshirke67-bot/apmc` and update the display name.
 
 ---
 
@@ -85,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/sanketshirke67-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- 👇 Replace the '#' with your real LinkedIn, Twitter, and Gmail URLs -->
+  <!-- 👇 Replace '#' with your real LinkedIn, Twitter, and Gmail URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
