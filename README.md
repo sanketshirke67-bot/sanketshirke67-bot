@@ -32,10 +32,38 @@
 
 ## 📁 Popular repositories · featured
 
-| | |
-|--|--|
-| **📘 my-portfolio** <br/> Modern portfolio website — interactive UI with smooth animations, responsive design, showcasing frontend mastery. <br/><br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **100%** <br/> [→ View repo](https://github.com/sanketshirke67-bot/my-portfolio) | **📐 styleguide** <br/> Forked from **google/styleguide** — coding conventions, best practices, and style references. <br/><br/> 📄 Style standards · Python / C++ / JS <br/> [→ View repo](https://github.com/sanketshirke67-bot/styleguide) |
-| **⚡ ampm** <br/> Forked from **microsoft/amp** — Accelerated Massive Parallelism (C++ AMP) exploration. <br/><br/> ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) HPC <br/> [→ View repo](https://github.com/sanketshirke67-bot/ampm) | **🖥️ myportfolio** <br/> My portfolio website — earlier version, built with HTML5, CSS3, and vanilla JS. <br/><br/> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) / CSS / JS <br/> [→ View repo](https://github.com/sanketshirke67-bot/myportfolio) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📘 my-portfolio</h4>
+      <p>Modern portfolio website — interactive UI with smooth animations, responsive design.</p>
+      <p><strong>JavaScript · 100%</strong></p>
+      <p><a href="https://github.com/sanketshirke67-bot/my-portfolio">→ View repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📐 styleguide</h4>
+      <p>Forked from <strong>google/styleguide</strong> — coding conventions, best practices.</p>
+      <p>📄 Style standards · Python / C++ / JS</p>
+      <p><a href="https://github.com/sanketshirke67-bot/styleguide">→ View repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ ampm</h4>
+      <p>Forked from <strong>microsoft/amp</strong> — C++ AMP (Accelerated Massive Parallelism) exploration.</p>
+      <p><img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" /> HPC</p>
+      <p><a href="https://github.com/sanketshirke67-bot/ampm">→ View repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ myportfolio</h4>
+      <p>Earlier portfolio version — built with HTML5, CSS3, and vanilla JS.</p>
+      <p>HTML / CSS / JS</p>
+      <p><a href="https://github.com/sanketshirke67-bot/myportfolio">→ View repo</a></p>
+    </td>
+  </tr>
+</table>
+
+> **Note about "apmc"** – if the actual repo is named `apmc` (instead of `ampm`), just change the link in the code above to `https://github.com/sanketshirke67-bot/apmc` and update the display name.
 
 ---
 
